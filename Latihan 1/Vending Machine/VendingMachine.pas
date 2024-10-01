@@ -1,4 +1,4 @@
-program VendingMachineSimple;
+program Vending_Machine;
 
 uses crt;
 
